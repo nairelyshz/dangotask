@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dangotask/static/css/main.073c9b0a.css",
+    "main.js": "/dangotask/static/js/main.35f82061.js",
+    "static/js/787.4b92a8bc.chunk.js": "/dangotask/static/js/787.4b92a8bc.chunk.js",
+    "index.html": "/dangotask/index.html",
+    "main.073c9b0a.css.map": "/dangotask/static/css/main.073c9b0a.css.map",
+    "main.35f82061.js.map": "/dangotask/static/js/main.35f82061.js.map",
+    "787.4b92a8bc.chunk.js.map": "/dangotask/static/js/787.4b92a8bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.35f82061.js"
+  ]
+}
